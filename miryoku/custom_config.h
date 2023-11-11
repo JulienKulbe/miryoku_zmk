@@ -2,4 +2,4 @@
 // https://github.com/manna-harbour/miryoku
 
 // use MAC keys for copy, cut, paste, undo and redo
-MIRYOKU_CLIPBOARD=MAC
+// MIRYOKU_CLIPBOARD=MAC
